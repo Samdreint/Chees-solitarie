@@ -1,0 +1,33 @@
+CARGAS DE LOS DESAFIOS
+======================================
+
+Tableros nivel Entrenamiento
+======================================
+
+Ab4-Dc3-Ad2-Ta1 Entrenamiento
+Cc4-Aa3-Pb2-Tc1 Entrenamiento
+Da4-Tc4-Cb2-Pa1 Entrenamiento
+Cb4-Dd3-Cc2-Pa1 Entrenamiento
+Ab4-Db3-Pa2-Rc2 Entrenamiento
+Ta4-Pc4-Cb2-Ac1 Entrenamiento
+
+Tableros nivel Facil
+======================================
+
+Ac4-Ad3-Dc2-Pd2-Ca1-Tb1 Facil
+Tc4-Dd4-Ta3-Cc2-Pd2-Aa1 Facil
+Aa4-Aa2-Tc2-Cd2-Pb1-Pc1 Facil
+Tc4-Ta3-Pb3-Aa2-Rb2-Ac1 Facil
+Tc4-Ca3-Pd3-Pc2-Ca1-Tb1 Facil
+Cb2-Ab3-Pc3-Ad3-Pa2-Cc2 Facil
+
+Tableros nivel Dificil
+======================================
+
+Ta4-Pb3-Cc3-Ad3-Pc2-Td2-Aa1 Dificil
+Ac4-Ab3-Rc3-Ca2-Cb2-Pd2-Pa1 Dificil
+Td4-Tb3-Pc3-Aa2-Cd2-Pb1-Ac1 Dificil
+Tc4-Ad4-Pd3-Aa2-Cb2-Pa1-Tc1 Dificil
+Ad4-Td3-Ta2-Cb2-Cc2-Pa1-Pb1 Dificil
+Cc4-Ad4-Cb3-Pd3-Pa2-Tb2-Aa1 Dificil
+
